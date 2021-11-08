@@ -3,7 +3,7 @@
 ## Set Up
 ### Clone The Repo
 
-  git clone https://github.com/tashfooq/flask-demo.git
+`git clone https://github.com/tashfooq/flask-demo.git`
 
 ## How To Use
 ### GET Request
