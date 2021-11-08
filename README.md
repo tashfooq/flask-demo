@@ -11,7 +11,14 @@
 > `docker pull tashfooq/maven-appointment:latest`
 
 ### Navigate to Repo
+
 > `cd ~/flask-demo`
+
+### Run Docker Image
+
+> `docker run -p 5001:5000 tashfooq/maven-appointment`
+
+In the web browser visit http://localhost:5001/
 
 ## How To Use
 
