@@ -1,11 +1,20 @@
 # Appointment Scheduling API
 
 ## Set Up
-### Clone The Repo
 
-`git clone https://github.com/tashfooq/flask-demo.git`
+### Clone the Repo
+
+> `git clone https://github.com/tashfooq/flask-demo.git`
+
+### Pull the Docker Image
+
+> `docker pull tashfooq/maven-appointment:latest`
+
+### Navigate to Repo
+> `cd ~/flask-demo`
 
 ## How To Use
+
 ### GET Request
 
 ***The URL***
