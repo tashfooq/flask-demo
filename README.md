@@ -1,5 +1,10 @@
 # Appointment Scheduling API
 
+## Set Up
+### Clone The Repo
+
+  git clone https://github.com/tashfooq/flask-demo.git
+
 ## How To Use
 ### GET Request
 
