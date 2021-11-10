@@ -26,7 +26,7 @@ In the web browser visit http://localhost:5001/
 
 ***The URL***
 
-> http://127.0.0.1:5000/api/appointments/<user_id>
+> http://localhost:5001/api/appointments/<user_id>
 
 The user ID must be passed in or else it will throw an error. Initially there are no appointments in memory so a get request will return 404 error with a message saying user not found
 
@@ -34,7 +34,7 @@ The user ID must be passed in or else it will throw an error. Initially there ar
 
 ***The URL***
 
-> http://127.0.0.1:5000/api/appointments
+> http://localhost:5001/api/appointments
 
 The request body must have
 `{
